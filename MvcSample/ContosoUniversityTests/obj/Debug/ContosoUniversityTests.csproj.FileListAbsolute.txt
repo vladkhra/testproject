@@ -1,0 +1,111 @@
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.csprojResolveAssemblyReference.cache
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.dll.config
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.pdb
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Razor.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\PagedList.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.pdb
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.dll.config
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Razor.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Optimization.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\PagedList.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.dll
+C:\Users\phutchinson\Documents\Visual Studio 2017\Projects\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.pdb
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.dll.config
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.pdb
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Razor.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\PagedList.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.pdb
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.dll.config
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Razor.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\PagedList.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.csprojResolveAssemblyReference.cache
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.dll
+C:\Users\Mdiazgranados\Downloads\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.pdb
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.dll.config
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversityTests.pdb
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Helpers.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Mvc.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Razor.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Optimization.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\PagedList.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.pdb
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\ContosoUniversity.dll.config
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Helpers.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Mvc.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Razor.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\System.Web.Optimization.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\PagedList.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.csprojResolveAssemblyReference.cache
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.dll
+C:\Source\PersonalRepo\MvcSample\ContosoUniversityTests\obj\Debug\ContosoUniversityTests.pdb
